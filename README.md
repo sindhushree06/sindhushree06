@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sindhushree</h1>
-<h3 align="center">Associate Software Engineer | Backend Developer | DSA Enthusiast</h3>
+<h3 align="center">Backend Developer | DSA Enthusiast</h3>
 
 ---
 
