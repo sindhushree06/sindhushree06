@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm **Sindhushree**, an **Associate Software Engineer** with a degree in **Computer Science & Engineering**  
+🎓 I'm **Sindhushree**, a **Software Engineer** with a degree in **Computer Science & Engineering**  
 
 💡 I love building **scalable**, **efficient**, and **secure** backend systems.  
 🛠️ Experienced in **GoLang**, **MongoDB**, and building powerful **REST APIs**.  
